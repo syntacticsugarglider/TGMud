@@ -1,0 +1,12 @@
+{
+  "name": "tgmud",
+  "version": "1.0.0",
+  "description": "Telegram MUD bot",
+  "main": "main.js",
+  "author": "Izzy Swart <zenerboson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "shortid": "^2.2.8",
+    "telegraf": "^3.17.0"
+  }
+}
